@@ -1,18 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:appcompat-v7:23.2.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/2425629090243945a34108196128b03b/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/225cbb4c6f802664121acda849605209/appcompat-v7-23.2.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/2425629090243945a34108196128b03b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/2425629090243945a34108196128b03b/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/2425629090243945a34108196128b03b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/225cbb4c6f802664121acda849605209/appcompat-v7-23.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/225cbb4c6f802664121acda849605209/appcompat-v7-23.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/225cbb4c6f802664121acda849605209/appcompat-v7-23.2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/23.2.1/5a6701ce1a18067fa5c59c4be3ced76a0d1acfe/appcompat-v7-23.2.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/23.2.1/601dedfe72c80b206004d602ad355601a2c07a92/appcompat-v7-23.2.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
